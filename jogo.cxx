@@ -1,9 +1,5 @@
 /*
 	Implementacao em C++ de jogo da velha entre um jogador e a maquina
-	
-	Levemente baseado em: https://gist.github.com/Alequine/2909172
-	
-	by: Infinitemarcus
 */
 
 #include <iostream>
